@@ -4,13 +4,5 @@ public class Main {
         System.out.println("Hola mundo_0");
         System.out.println("Hola mundo_1");
 
-        System.out.println("Hola mundo_0");
-        System.out.println("Hola mundo_1");
-
-        System.out.println("Hola mundo_0");
-        System.out.println("Hola mundo_1");        System.out.println("Hola mundo_0");
-        System.out.println("Hola mundo_1");
-
-
     }
 }
