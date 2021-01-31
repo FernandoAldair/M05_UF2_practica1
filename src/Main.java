@@ -6,6 +6,9 @@ public class Main {
         System.out.println("Hola mundo_30");
         System.out.println("Hola mundo_41");
 
+        System.out.println("Hola mundo_50");
+        System.out.println("Hola mundo_51");
+
 
     }
 }
