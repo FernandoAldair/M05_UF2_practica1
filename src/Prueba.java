@@ -4,6 +4,8 @@ public class Prueba {
         System.out.println("Hola mundo");
         System.out.println("nuevo mundo");
         System.out.println("nuevo mundo");
+        System.out.println("Hola mundo");
+        System.out.println("Hola mundo");
 
     }
 }
